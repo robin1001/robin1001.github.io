@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CTC search
 tags: [note, program]
 ---
