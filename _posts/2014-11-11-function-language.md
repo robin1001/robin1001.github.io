@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 函数式程序设计 & Emacs
 tags: [program]
 ---

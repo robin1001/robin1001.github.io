@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: Notes on DeepLearn Toolbox
 tags: [note, dl]
 ---

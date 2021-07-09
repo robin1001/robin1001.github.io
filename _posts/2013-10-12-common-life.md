@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 生活的平庸将使人痛苦不堪
 tags: [genius]
 ---

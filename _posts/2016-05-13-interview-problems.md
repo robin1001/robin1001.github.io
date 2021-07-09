@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: Algorithm and Data Structrue Questions for Interview 
 tags: [program]
 ---

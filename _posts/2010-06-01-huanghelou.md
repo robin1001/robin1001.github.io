@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 黄鹤楼赋
 tags: [genius]
 ---

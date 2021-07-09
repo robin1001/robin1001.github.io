@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  深度学习平台的分布式实现
 tags: [asr, dl]
 ---

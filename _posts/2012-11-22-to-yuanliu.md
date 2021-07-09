@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 写给二十岁的你
 tags: [genius]
 ---

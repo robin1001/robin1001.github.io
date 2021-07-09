@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 秋夜
 tags: [genius]
 ---

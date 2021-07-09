@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: Overview of Linux Namespaces
 tags: [note, program]
 ---
