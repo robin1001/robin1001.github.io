@@ -1,6 +1,7 @@
 ---
+layout: post
 title: CTC search
-tags: ASR
+tags: [note, program]
 ---
 
 
