@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Banner.css';
 import { useLanguage } from '../contexts/LanguageContext';
 
@@ -19,7 +20,7 @@ const Banner: React.FC = () => {
     },
     {
       nameKey: 'banner.blog',
-      url: '#blog',
+      url: '/blog',
       iconType: 'blog'
     },
     {
@@ -65,18 +66,34 @@ const Banner: React.FC = () => {
           <h1 className="banner-title">{t('banner.title')}</h1>
           <div className="banner-right">
             <div className="banner-links">
-              {links.map((link, index) => (
-                <a
-                  key={index}
-                  href={link.url}
-                  className="banner-link"
-                  target={link.url.startsWith('http') ? '_blank' : '_self'}
-                  rel={link.url.startsWith('http') ? 'noopener noreferrer' : ''}
-                >
-                  {renderIcon(link)}
-                  <span className="banner-link-text">{t(link.nameKey)}</span>
-                </a>
-              ))}
+              {links.map((link, index) => {
+                // 如果是外部链接，使用 <a> 标签
+                if (link.url.startsWith('http')) {
+                  return (
+                    <a
+                      key={index}
+                      href={link.url}
+                      className="banner-link"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {renderIcon(link)}
+                      <span className="banner-link-text">{t(link.nameKey)}</span>
+                    </a>
+                  );
+                }
+                // 如果是内部路由，使用 <Link> 组件
+                return (
+                  <Link
+                    key={index}
+                    to={link.url}
+                    className="banner-link"
+                  >
+                    {renderIcon(link)}
+                    <span className="banner-link-text">{t(link.nameKey)}</span>
+                  </Link>
+                );
+              })}
             </div>
             <button className="language-toggle" onClick={toggleLanguage}>
               {language === 'zh' ? 'EN' : '中文'}
