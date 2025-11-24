@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="https://wenet.org.cn/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="个人主页" />
+    <title>个人主页</title>
+    <script>
+      // GitHub Pages SPA 路由重定向
+      // 当访问不存在的路径时，GitHub Pages 会返回 404.html
+      // 这个脚本将当前路径保存并重定向到 index.html
+      var pathSegmentsToKeep = 0;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+      <link rel="stylesheet" crossorigin href="/assets/index.css">
+  </head>
+  <body>
+    <noscript>您需要启用 JavaScript 才能运行此应用程序。</noscript>
+    <div id="root"></div>
+    <script type="module" crossorigin src="/assets/index.js"></script>
+  </body>
+</html>
+
