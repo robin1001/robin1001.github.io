@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 0;
+  }
+}
+
