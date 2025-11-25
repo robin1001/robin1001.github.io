@@ -68,6 +68,12 @@ const translations: Record<Language, Record<string, string>> = {
     'publications.description.prefix': '或者你可以在 Google Scholar 访问',
     'publications.description.link': '我的文章',
     'publications.description.suffix': '',
+
+    // Blog
+    'blog.title': '博客文章',
+    'blog.tab.tech': '科技',
+    'blog.tab.essay': '随笔',
+    'blog.tab.notes': '笔记',
   },
   en: {
     // Banner
@@ -126,6 +132,12 @@ const translations: Record<Language, Record<string, string>> = {
     'publications.description.prefix': 'Or you can visit',
     'publications.description.link': 'my publications',
     'publications.description.suffix': ' on Google Scholar',
+
+    // Blog
+    'blog.title': 'Blog',
+    'blog.tab.tech': 'Tech',
+    'blog.tab.essay': 'Essay',
+    'blog.tab.notes': 'Notes',
   },
 };
 
