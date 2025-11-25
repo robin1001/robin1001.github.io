@@ -6,6 +6,7 @@ import Banner from './components/Banner';
 import Profile from './components/Profile';
 import BlogList from './components/BlogList';
 import BlogDetail from './components/BlogDetail';
+import Publications from './components/Publications';
 
 // 处理 GitHub Pages 404 重定向
 function RedirectHandler() {
@@ -41,6 +42,7 @@ function App(): JSX.Element {
             <Route path="/" element={<Profile />} />
             <Route path="/blog" element={<BlogList />} />
             <Route path="/blog/:slug" element={<BlogDetail />} />
+            <Route path="/publications" element={<Publications />} />
           </Routes>
         </div>
       </BrowserRouter>

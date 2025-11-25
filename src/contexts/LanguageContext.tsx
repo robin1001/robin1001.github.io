@@ -60,6 +60,14 @@ const translations: Record<Language, Record<string, string>> = {
     'work.baidu.period': '2015',
     'work.baidu.desc': '专注于声学建模',
     'work.present': '至今',
+
+    // Publications
+    'publications.title': '发表文章',
+    'publications.expand': '展开',
+    'publications.collapse': '收起',
+    'publications.description.prefix': '或者你可以在 Google Scholar 访问',
+    'publications.description.link': '我的文章',
+    'publications.description.suffix': '',
   },
   en: {
     // Banner
@@ -110,6 +118,14 @@ const translations: Record<Language, Record<string, string>> = {
     'work.baidu.period': '2015',
     'work.baidu.desc': 'Focusing on acoustic modeling',
     'work.present': 'Present',
+
+    // Publications
+    'publications.title': 'Publications',
+    'publications.expand': 'Expand',
+    'publications.collapse': 'Collapse',
+    'publications.description.prefix': 'Or you can visit',
+    'publications.description.link': 'my publications',
+    'publications.description.suffix': ' on Google Scholar',
   },
 };
 

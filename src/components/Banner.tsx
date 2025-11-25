@@ -15,7 +15,7 @@ const Banner: React.FC = () => {
   const links: Link[] = [
     {
       nameKey: 'banner.publications',
-      url: 'https://scholar.google.com/citations?user=IduEkNQAAAAJ',
+      url: '/publications',
       iconType: 'google-scholar'
     },
     {
