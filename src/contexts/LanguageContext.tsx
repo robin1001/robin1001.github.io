@@ -14,6 +14,7 @@ const translations: Record<Language, Record<string, string>> = {
   zh: {
     // Banner
     'banner.title': '个人主页',
+    'banner.home': '个人主页',
     'banner.publications': 'Publications',
     'banner.blog': 'Blog',
     'banner.github': 'GitHub',
@@ -63,6 +64,7 @@ const translations: Record<Language, Record<string, string>> = {
   en: {
     // Banner
     'banner.title': 'Personal Homepage',
+    'banner.home': 'Home',
     'banner.publications': 'Publications',
     'banner.blog': 'Blog',
     'banner.github': 'GitHub',

@@ -23,11 +23,23 @@
   gap: 20px;
 }
 
-.banner-title {
-  font-size: 1.5rem;
+.banner-title-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #666;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 400;
+  transition: color 0.2s ease;
+}
+
+.banner-title-link:hover {
   color: #333;
-  font-weight: 500;
-  margin: 0;
+}
+
+.banner-title-text {
+  font-size: 0.95rem;
 }
 
 .language-toggle {
@@ -96,9 +108,6 @@
     justify-content: space-between;
   }
 
-  .banner-title {
-    font-size: 1.25rem;
-  }
 
   .banner-links {
     gap: 24px;

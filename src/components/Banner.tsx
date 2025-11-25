@@ -63,7 +63,12 @@ const Banner: React.FC = () => {
     <div className="banner">
       <div className="banner-content">
         <div className="banner-header">
-          <h1 className="banner-title">{t('banner.title')}</h1>
+          <Link to="/" className="banner-title-link">
+            <svg className="banner-link-icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+            </svg>
+            <span className="banner-title-text">{t('banner.title')}</span>
+          </Link>
           <div className="banner-right">
             <div className="banner-links">
               {links.map((link, index) => {
