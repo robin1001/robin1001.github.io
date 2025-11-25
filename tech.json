@@ -1,0 +1,86 @@
+[
+  {
+    "title": "WenetSpeech 家族，一场前赴后继的饕餮盛宴",
+    "link": "https://mp.weixin.qq.com/s/lF-VOjrL92uH7FmDYzkGig",
+    "date": "2025-11-25",
+    "description": "在几天前的 NCMMSC2025 会议上，我们介绍了 WenetSpeech 家族发展史，并重点介绍了家族的新成员方言数据集 WenetSpeech-Yue 和  WenetSpeech-Chuan。文本将会议的内容加以整理，以供更多的读者参考。"
+  },
+  {
+    "title": "GPT-4o, 语音的 ChatGPT 时刻终于来了！",
+    "link": "https://mp.weixin.qq.com/s/-7kFZ_cmCQXduTRQ_5BsUQ",
+    "date": "2025-11-25",
+    "description": "千呼万唤始出来，语音的 ChatGPT 时刻终于来了！"
+  },
+  {
+    "title": "WeNet 开源社区 2022 小记",
+    "link": "https://mp.weixin.qq.com/s/PEWt7zUmEWr2D5Kh6txrWg",
+    "date": "2025-11-25",
+    "description": "22年初的时候，我们讨论出社区的 Slogan，让 AI 变得更简单，也讨论出了社区如下的目标：落地，促进基于深度学习的语音落地；生态，促进开源语音生态建设；国芯，促进国产芯片生态建设。"
+  },
+  {
+    "title": "WeNet 开源社区 2021 小记",
+    "link": "https://mp.weixin.qq.com/s/veATbiaYw5BtPKxnDmtxvw",
+    "date": "2025-11-25",
+    "description": "岁月如白驹过隙，转眼就到年底，WeNet 开源社区(https://wenet.org.cn/)也走过了一年，其中发生了挺多有意思的事情和故事。在牛气冲天和虎虎生威的日子中间，刚好将这些故事和我们的一些思考分享给大家。"
+  },
+  {
+    "title": "全球最大多领域中文语音识别数据集 WenetSpeech 正式发布并开放下载",
+    "link": "https://mp.weixin.qq.com/s/lR22WmI5G2mPSuloZUcWVA",
+    "date": "2025-11-25",
+    "description": "WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition"
+  },
+  {
+    "title": "WeNet 1.0正式发布: 更快更高更强更有生产力",
+    "link": "https://mp.weixin.qq.com/s/CG6g1TBSvdVRYp_9EqanNA",
+    "date": "2025-11-25",
+    "description": "如果用简单的几个词总结 WeNet 1.0 的特性的话，我们想到了“更快、更高、更强、更有生产力”。"
+  },
+  {
+    "title": "语音识别系列之高阶解码器技术",
+    "link": "https://mp.weixin.qq.com/s/Li4GUgFcnotVrswgcX4QFQ",
+    "date": "2025-11-25",
+    "description": "本文取名高阶解码器技术，一是文章假定读者已有语音识别、WFST(Weighted Finite State Transducer)和解码器的基础知识，二是文章关注解码器在实际应用中的问题和实际需求，当然也略有博人眼球的嫌疑。本文写作过程中，得到吕航博士的指正和支持，特此感谢。"
+  },
+  {
+    "title": "语音识别系列之区分性训练和LF-MMI",
+    "link": "https://mp.weixin.qq.com/s/9Z4uGDVfsWBock9M0I4wwg",
+    "date": "2025-11-25",
+    "description": "在传统的语音识别中，区分性训练扮演着非常重要的角色，是语音识别学习中的一个重点和难点。如今，端到端的语音识别系统虽初露锋芒，是目前语音识别研究的热点，但在实际工业应用中，传统的语音识别仍然占据着主导地位，区分性训练仍然发挥着重要角色。并且，区分性训练更重要的是其基本思想，相信其思想和基本方法未来也会在端到端的语音识别系统中有广泛应用。所以，值得一写，值得一看，值得一学。"
+  },
+  {
+    "title": "语音识别系列之决策树",
+    "link": "https://mp.weixin.qq.com/s/5zSvzCr2YdMVO97rvKB0eg",
+    "date": "2025-11-25",
+    "description": "在近日准备的深蓝学院的GMM-HMM这一讲的课程中，因为课程篇幅和时长的限制，关于决策树这一部分仅是做了比较浅的介绍，但决策树是基于HMM语音识别中的一个难点和要点，所以，这里通过文章做进一步的介绍，方便更多的同学和读者做进一步的学习。"
+  },
+  {
+    "title": "Google软件工程之道（一）综述",
+    "link": "https://mp.weixin.qq.com/s/0fSDxGmMfvIzFNunJ21I2A",
+    "date": "2025-11-25",
+    "description": "本文译自Software Engineering at Google，原作者为Fergus Henderson，原文如链接https://arxiv.org/pdf/1702.01715.pdf所示。本文翻译原文的摘要、作者序和综述部分。"
+  },
+  {
+    "title": "Google软件工程之道（二）软件开发",
+    "link": "https://mp.weixin.qq.com/s/T9n64aOG7FaPApzB5K3dXw",
+    "date": "2025-11-25",
+    "description": "本文译自Software Engineering at Google，原作者为Fergus Henderson，原文如链接https://arxiv.org/pdf/1702.01715.pdf所示。本文翻译原文的软件开发（Software development）部分，本部分也是原文篇幅最长、最核心的部分。最初考虑到文章过长读者阅读时间会很长，原本想拆分为多个部分，后来为保持文章和语境的连续性，..."
+  },
+  {
+    "title": "Google软件工程之道（三）项目管理",
+    "link": "https://mp.weixin.qq.com/s/XMIL2d_CvvIVX00EKrOhvQ",
+    "date": "2025-11-25",
+    "description": "本文译自Software Engineering at Google，原作者为Fergus Henderson，原文如链接https://arxiv.org/pdf/1702.01715.pdf所示。本文翻译原文的项目管理（Project management）部分。"
+  },
+  {
+    "title": "Google软件工程之道（四）员工管理",
+    "link": "https://mp.weixin.qq.com/s/L9kbXZX6SnNCKcBNPFWF0g",
+    "date": "2025-11-25",
+    "description": "本文译自Software Engineering at Google，原作者为Fergus Henderson，原文如链接https://arxiv.org/pdf/1702.01715.pdf所示。本文翻译原文的员工管理（People management）部分。"
+  },
+  {
+    "title": "Google软件工程之道（五）总结",
+    "link": "https://mp.weixin.qq.com/s/rA3OgoE-sGa_7cUcZVpSTw",
+    "date": "2025-11-25",
+    "description": "本文译自Software Engineering at Google，本文翻译原文的结论、致谢和引用部分。"
+  }
+]
