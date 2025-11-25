@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Wenet: Production oriented streaming and non-streaming end-to-end speech recognition toolkit",
+    "authors": "Z Yao, D Wu, X Wang, B Zhang, F Yu, C Yang, Z Peng, X Chen, L Xie, ...",
+    "venue": "arXiv preprint arXiv:2102.01547, 2021",
+    "year": "2021",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:ULOm3_A8WrAC"
+  },
+  {
+    "title": "Wenetspeech: A 10000+ hours multi-domain mandarin corpus for speech recognition",
+    "authors": "B Zhang, H Lv, P Guo, Q Shao, C Yang, L Xie, X Xu, H Bu, X Chen, ...",
+    "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "year": "2022",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "title": "An unsupervised deep domain adaptation approach for robust speech recognition",
+    "authors": "S Sun, B Zhang, L Xie, Y Zhang",
+    "venue": "Neurocomputing 257, 79-87, 2017",
+    "year": "2017",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+    "title": "Wespeaker: A research and production oriented speaker embedding learning toolkit",
+    "authors": "H Wang, C Liang, S Wang, Z Chen, B Zhang, X Xiang, Y Deng, Y Qian",
+    "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:ufrVoPGSRksC"
+  },
+  {
+    "title": "Wenet 2.0: More productive end-to-end speech recognition toolkit",
+    "authors": "B Zhang, D Wu, Z Peng, X Song, Z Yao, H Lv, L Xie, C Yang, F Pan, J Niu",
+    "venue": "arXiv preprint arXiv:2203.15455, 2022",
+    "year": "2022",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:4TOpqqG69KYC"
+  },
+  {
+    "title": "Unified streaming and non-streaming two-pass end-to-end model for speech recognition",
+    "authors": "B Zhang, D Wu, Z Yao, X Wang, F Yu, C Yang, L Guo, Y Hu, L Xie, X Lei",
+    "venue": "arXiv preprint arXiv:2012.05481, 2020",
+    "year": "2020",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:Zph67rFs4hoC"
+  },
+  {
+    "title": "U2++: Unified two-pass bidirectional end-to-end model for speech recognition",
+    "authors": "D Wu, B Zhang, C Yang, Z Peng, W Xia, X Chen, X Lei",
+    "venue": "arXiv preprint arXiv:2106.05642, 2021",
+    "year": "2021",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:_kc_bZDykSQC"
+  },
+  {
+    "title": "Wenetspeech4tts: A 12,800-hour mandarin tts corpus for large speech generation model benchmark",
+    "authors": "L Ma, D Guo, K Song, Y Jiang, S Wang, L Xue, W Xu, H Zhao, B Zhang, ...",
+    "venue": "arXiv preprint arXiv:2406.05763, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:qxL8FJ1GzNcC"
+  },
+  {
+    "title": "Advancing speaker embedding learning: Wespeaker toolkit for research and production",
+    "authors": "S Wang, Z Chen, B Han, H Wang, C Liang, B Zhang, X Xiang, W Ding, ...",
+    "venue": "Speech Communication 162, 103104, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:kNdYIx-mwKoC"
+  },
+  {
+    "title": "Zeroprompt: Streaming acoustic encoders are zero-shot masked lms",
+    "authors": "X Song, D Wu, B Zhang, Z Peng, B Dang, F Pan, Z Wu",
+    "venue": "arXiv preprint arXiv:2305.10649, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "title": "Wenet: Production first and production ready end-to-end speech recognition toolkit",
+    "authors": "B Zhang, D Wu, C Yang, X Chen, Z Peng, X Wang, Z Yao, X Wang, F Yu, ...",
+    "venue": "arXiv e-prints, arXiv: 2102.01547, 2021",
+    "year": "2021",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:YOwf2qJgpHMC"
+  },
+  {
+    "title": "Branch-ECAPA-TDNN: A parallel branch architecture to capture local and global features for speaker verification",
+    "authors": "J Yao, C Liang, Z Peng, B Zhang, XL Zhang",
+    "venue": "Proc. Interspeech, 1943-1947, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:5nxA0vEk-isC"
+  },
+  {
+    "title": "Lightgrad: Lightweight diffusion probabilistic model for text-to-speech",
+    "authors": "J Chen, X Song, Z Peng, B Zhang, F Pan, Z Wu",
+    "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:UebtZRa9Y70C"
+  },
+  {
+    "title": "As-70: A mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection",
+    "authors": "R Gong, H Xue, L Wang, X Xu, Q Li, L Xie, H Bu, S Wu, J Zhou, Y Qin, ...",
+    "venue": "arXiv preprint arXiv:2406.07256, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:M3ejUd6NZC8C"
+  },
+  {
+    "title": "Fast-u2++: Fast and accurate end-to-end speech recognition in joint ctc/attention frames",
+    "authors": "C Liang, XL Zhang, BB Zhang, D Wu, S Li, X Song, Z Peng, F Pan",
+    "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:LkGwnXOMwfcC"
+  },
+  {
+    "title": "Wekws: A production first small-footprint end-to-end keyword spotting toolkit",
+    "authors": "J Wang, M Xu, J Hou, B Zhang, XL Zhang, L Xie, F Pan",
+    "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:WF5omc3nYNoC"
+  },
+  {
+    "title": "Trimtail: Low-latency streaming asr with simple but effective spectrogram-level length penalty",
+    "authors": "X Song, D Wu, Z Wu, B Zhang, Y Zhang, Z Peng, W Li, F Pan, C Zhu",
+    "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+    "title": "Icmc-asr: The icassp 2024 in-car multi-channel automatic speech recognition challenge",
+    "authors": "H Wang, P Guo, Y Li, A Zhang, J Sun, L Xie, W Chen, P Zhou, H Bu, X Xu, ...",
+    "venue": "2024 IEEE International Conference on Acoustics, Speech, and Signal …, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:3fE2CSJIrl8C"
+  },
+  {
+    "title": "Touchtts: An embarrassingly simple tts framework that everyone can touch",
+    "authors": "X Song, M Xing, C Ma, S Li, D Wu, B Zhang, F Pan, D Zhou, Y Zhang, ...",
+    "venue": "arXiv preprint arXiv:2412.08237, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:Wp0gIr-vW9MC"
+  },
+  {
+    "title": "U2++ moe: Scaling 4.7 x parameters with minimal impact on rtf",
+    "authors": "X Song, D Wu, B Zhang, D Zhou, Z Peng, B Dang, F Pan, C Yang",
+    "venue": "arXiv preprint arXiv:2404.16407, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&citation_for_view=IduEkNQAAAAJ:KlAtU1dfN6UC"
+  },
+  {
+    "title": "Spike-triggered contextual biasing for end-to-end mandarin speech recognition",
+    "authors": "K Huang, A Zhang, B Zhang, T Xu, X Song, L Xie",
+    "venue": "2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 1-8, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:8k81kl-MbHgC"
+  },
+  {
+    "title": "The iscslp 2022 intelligent cockpit speech recognition challenge (icsrc): Dataset, tracks, baseline and results",
+    "authors": "A Zhang, F Yu, K Huang, L Xie, L Wang, ES Chng, H Bu, B Zhang, ...",
+    "venue": "2022 13th International Symposium on Chinese Spoken Language Processing …, 2022",
+    "year": "2022",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:roLk4NBRz8UC"
+  },
+  {
+    "title": "Findings of the 2024 Mandarin Stuttering Event Detection and Automatic Speech Recognition Challenge",
+    "authors": "H Xue, R Gong, M Shao, X Xu, L Wang, L Xie, H Bu, J Zhou, Y Qin, J Du, ...",
+    "venue": "2024 IEEE Spoken Language Technology Workshop (SLT), 385-392, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:4DMP91E08xMC"
+  },
+  {
+    "title": "Empirical evaluation of parallel training algorithms on acoustic modeling",
+    "authors": "W Li, B Zhang, L Xie, D Yu",
+    "venue": "arXiv preprint arXiv:1703.05880, 2017",
+    "year": "2017",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:u-x6o8ySG0sC"
+  },
+  {
+    "title": "Wenetspeech-yue: A large-scale cantonese speech corpus with multi-dimensional annotation",
+    "authors": "L Li, Z Guo, H Chen, Y Dai, Z Zhang, H Xue, T Zuo, C Wang, S Wang, J Li, ...",
+    "venue": "AAAI",
+    "year": "2025",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:dhFuZR0502QC"
+  },
+  {
+    "title": "TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch",
+    "authors": "X Song, C Liang, B Zhang, P Zhang, ZY Wang, Y Ma, M Xu, L Wang, ...",
+    "venue": "arXiv preprint arXiv:2412.15622, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:mVmsd5A6BfQC"
+  },
+  {
+    "title": "Fusionformer: Fusing operations in transformer for efficient streaming speech recognition",
+    "authors": "X Song, D Wu, B Zhang, Z Wu, W Li, D Li, P Zhang, Z Peng, F Pan, C Zhu, ...",
+    "venue": "arXiv preprint arXiv:2210.17079, 2022",
+    "year": "2022",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:Se3iqnhoufwC"
+  },
+  {
+    "title": "WenetSpeech-Chuan: A Large-Scale Sichuanese Corpus with Rich Annotation for Dialectal Speech Processing",
+    "authors": "Y Dai, Z Zhang, S Wang, L Li, Z Guo, T Zuo, S Wang, H Xue, C Wang, ...",
+    "venue": "arXiv preprint arXiv:2509.18004, 2025",
+    "year": "2025",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:QIV2ME_5wuYC"
+  },
+  {
+    "title": "Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding",
+    "authors": "H Zhou, X Song, B Fahy, Q Song, B Zhang, Z Peng, A Wadhawan, ...",
+    "venue": "arXiv preprint arXiv:2506.12154, 2025",
+    "year": "2025",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:9ZlFYXVOiuMC"
+  },
+  {
+    "title": "Hydraformer: One Encoder for All Subsampling Rates",
+    "authors": "Y Xu, X Song, Z Wu, D Wu, Z Peng, B Zhang",
+    "venue": "2024 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2024",
+    "year": "2024",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:aqlVkmm33-oC"
+  },
+  {
+    "title": "The GUA-Speech System Description for CNVSRC Challenge 2023",
+    "authors": "S Li, C Lei, B Ma, B Zhang, F Pan",
+    "venue": "arXiv preprint arXiv:2312.07254, 2023",
+    "year": "2023",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:MXK_kJrjxJIC"
+  },
+  {
+    "title": "WEST: LLM based Speech Toolkit for Speech Understanding, Generation, and Interaction",
+    "authors": "B Zhang, C Liang, S Wang, X Geng, Z Guo, H Li, H Yin, X Yang, P Zhang, ...",
+    "venue": "arXiv preprint arXiv:2509.19902, 2025",
+    "year": "2025",
+    "citations": "0",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=IduEkNQAAAAJ&cstart=20&pagesize=80&citation_for_view=IduEkNQAAAAJ:7PzlFSSx8tAC"
+  }
+]
